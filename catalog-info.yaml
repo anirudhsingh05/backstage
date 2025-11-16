@@ -3,7 +3,8 @@ kind: Component
 metadata:
   name: "my-demo-app"
   annotations:
-    github.com/project-slug: <your-github-username-here>/my-demo-app
+    github.com/user: anirudhsingh05
+    github.com/project-slug: anirudhsingh05/backstage
 spec:
   type: service
   owner: user:default/guest
